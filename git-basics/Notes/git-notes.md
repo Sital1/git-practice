@@ -234,3 +234,28 @@ The comment in the extra branch are needed but we don't want to merge. We can br
 
       // fastforward merge in master
       git merge <branchname> 
+
+## Remot Repo 
+
+ - Clone the Repo 
+
+    ```
+    git clone <url>
+    
+    ```
+- Pull the changes made to the remote repo 
+
+    ```
+    git pull
+
+    ```
+- Push the changes 
+
+   ```
+    git push 
+   ```
+- Name of the remote repo
+
+  ```
+  git remote // this is a default name
+  ```
