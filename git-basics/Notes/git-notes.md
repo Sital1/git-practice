@@ -259,3 +259,8 @@ The comment in the extra branch are needed but we don't want to merge. We can br
   ```
   git remote // this is a default name
   ```
+
+
+- When you do a git clone it creates a replica of master/main.
+- It creates another branch origin/main(master)
+- And the remaining branches like  origin/test-branch
